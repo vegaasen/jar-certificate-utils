@@ -1,7 +1,7 @@
+com/vegaasen/sec/certificate/cert/CertificateRequestUtilsTest.class
 com/vegaasen/sec/certificate/cert/CRLCertificateUtilsTest.class
-com/vegaasen/sec/certificate/cert/CertificateUtilsTest.class
+com/vegaasen/sec/certificate/http/SslHeadersTest$1.class
 com/vegaasen/sec/certificate/cert/CertificateUtilsByStringTest.class
 com/vegaasen/sec/certificate/common/CertificateTestCommon.class
-com/vegaasen/sec/certificate/http/SslHeadersTest$1.class
+com/vegaasen/sec/certificate/cert/CertificateUtilsTest.class
 com/vegaasen/sec/certificate/http/SslHeadersTest.class
-com/vegaasen/sec/certificate/cert/CertificateRequestUtilsTest.class
